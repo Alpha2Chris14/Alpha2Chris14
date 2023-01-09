@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christian
 ========================================================================================================================================
 
-Fullstack Developer And Mobile Development
+Fullstack Developer and Mobile Development
 ------------------------------------------
 
 *   🌍  I'm based in Lagos
 *   ✉️  You can contact me at [onyekachristian14@gmail.com](mailto:onyekachristian14@gmail.com)
-*   🚀  I'm currently working on [Paynobs](http://paynobs.com)
-*   🧠  I'm learning Flutter
-*   🤝  I'm open to collaborating on Flutter Project, Backend Project or Any Interesting Project
-*   ⚡  I have the death note, Don't tell anyone
+*   🚀  I'm currently working on [Paynobs](http://paynobs.com) and doing something with flutter
+*   🧠  I'm taking a refresher course on flutter
+*   🤝  I'm open to collaborating on Flutter Project, Backend Project with php or Any Interesting Project
+*   ⚡  I have the death note, Don't tell anyone...lol
 
 ### Skills 
 <p align="left">
