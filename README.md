@@ -9,7 +9,9 @@ Fullstack Developer And Mobile Development
 *   🚀  I'm currently working on [Paynobs](http://paynobs.com)
 *   🧠  I'm learning Flutter
 *   🤝  I'm open to collaborating on Flutter Project, Backend Project or Any Interesting Project
-*   ⚡  I have the death note, Don't tell anyone### Skills 
+*   ⚡  I have the death note, Don't tell anyone
+
+### Skills 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
