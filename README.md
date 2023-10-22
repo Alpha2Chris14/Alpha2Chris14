@@ -7,7 +7,7 @@ Fullstack Web and Mobile Developer
 *   🌍  I'm based in Lagos
 *   ✉️  You can contact me at [onyekachristian14@gmail.com](mailto:onyekachristian14@gmail.com)
 *   🚀  I'm currently working on [Something exiciting](https://github.com/Alpha2Chris14/Alpha2Chris14) with flutter
-*   🧠  I'm taking a refresher course on flutter
+*   🧠  I'm taking a some amazing courses on AWS fingers Crossed
 *   🤝  I'm open to collaborating on Flutter Project, Backend Project with php or Any Interesting Project
 *   ⚡  I have the death note, Don't tell anyone...lol
 
