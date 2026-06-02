@@ -7,7 +7,7 @@ Full-stack Web and Mobile Developer
 *   🌍  I'm based in Lagos
 *   ✉️  You can contact me at [onyekachristian14@gmail.com](mailto:onyekachristian14@gmail.com)
 *   🤝  I'm open to collaborating on Flutter Project, Backend Project or Any Interesting Project
-*   ⚡  I have the death note, Don't tell anyone...lol
+*   ⚡  I have the death note, Don't tell anyone...lol.
 
 ### Skills 
 <p align="left">
